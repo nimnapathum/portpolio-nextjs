@@ -72,7 +72,7 @@ const Work = () => {
         transition: {
           duration: 0.4,
           delay: 2.4,
-          ease: "esaeIn",
+          ease: "easeIn",
         }
       }}
       className="min-h-[80vh] flex flex-col justify-center py-12 xl:px-8"
